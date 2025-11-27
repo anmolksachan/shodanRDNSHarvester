@@ -1,4 +1,4 @@
-# **`shodanRDNSHarvester` — Shodan RDNS Harvester**
+<!--# **`shodanRDNSHarvester` — Shodan RDNS Harvester**-->
 
 <img width="1716" height="222" alt="image" src="https://github.com/user-attachments/assets/c764f7ff-84bc-4675-9ae2-5c4fea4386c1" />
 
